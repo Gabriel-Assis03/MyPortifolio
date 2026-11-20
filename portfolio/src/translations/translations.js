@@ -38,13 +38,13 @@ export const translations = {
         github: "https://github.com/Gabriel-Assis03/Cambio",
       },
       {
-        name: "ChargerMap",
+        name: "GamesHub",
         year: "2026",
         description:
-          "Plataforma para localizar pontos de recarga de veículos elétricos e planejar viagens.",
-        technologies: ["JavaScript", "Leaflet", "APIs"],
-        image: "/images/projects/chargermap.png",
-        github: "#",
+          "Plataforma para monitorar seus jogos com informações detalhadas e estatísticas.",
+        technologies: ["JavaScript", "JsonServer", "APIs"],
+        image: "/images/projects/gamesHub.png",
+        github: "https://github.com/ICEI-PMG-ES-DIW/trabalho-pratico-2-Gabriel-Assis26",
       },
       {
         name: "Bookshelf",
@@ -130,13 +130,13 @@ export const translations = {
         github: "https://github.com/Gabriel-Assis03/Cambio",
       },
       {
-        name: "ChargerMap",
+        name: "GamesHub",
         year: "2026",
         description:
-          "A platform to locate electric vehicle charging stations and plan trips.",
-        technologies: ["JavaScript", "Leaflet", "APIs"],
-        image: "/images/projects/chargermap.png",
-        github: "#",
+          "A platform to monitor your games with detailed information and statistics.",
+        technologies: ["JavaScript", "JsonServer", "APIs"],
+        image: "/images/projects/gamesHub.png",
+        github: "https://github.com/ICEI-PMG-ES-DIW/trabalho-pratico-2-Gabriel-Assis26",
       },
       {
         name: "Bookshelf",
