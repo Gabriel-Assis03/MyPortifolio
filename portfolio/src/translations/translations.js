@@ -29,13 +29,13 @@ export const translations = {
       "Alguns dos projetos que representam minha jornada na programação.",
     projectItems: [
       {
-        name: "App de Receitas",
+        name: "Casa de Cambio",
         year: "2024",
         description:
-          "Aplicação para explorar e gerenciar receitas, desenvolvida com React.",
-        technologies: ["React", "JavaScript", "CSS"],
-        image: "/images/projects/receitas.png",
-        github: "#",
+          "Aplicação para monitorar taxas de câmbio e realizar conversões.",
+        technologies: ["Python", "Django", "CSS"],
+        image: "/images/projects/cambio.png",
+        github: "https://github.com/Gabriel-Assis03/Cambio",
       },
       {
         name: "ChargerMap",
@@ -53,7 +53,7 @@ export const translations = {
           "Plataforma de gerenciamento de leituras, livros favoritos e métricas de leitura.",
         technologies: ["React", "Node.js", "MongoDB"],
         image: "/images/projects/bookshelf.png",
-        github: "#",
+        github: "https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti2-8183100-bookshelf",
       },
     ],
 
@@ -69,7 +69,7 @@ export const translations = {
       {
         title: "Desenvolvimento Full Stack",
         institution: "Trybe",
-        period: "2024",
+        period: "2023",
         description:
           "Formação em desenvolvimento web, incluindo JavaScript, React, Back-end e bancos de dados.",
       },
@@ -121,13 +121,13 @@ export const translations = {
       "Some of the projects that represent my journey in programming.",
     projectItems: [
       {
-        name: "Recipe App",
+        name: "Currency Exchange",
         year: "2024",
         description:
-          "An application to explore and manage recipes, built with React.",
+          "Application to monitor exchange rates and perform currency conversions.",
         technologies: ["React", "JavaScript", "CSS"],
-        image: "/images/projects/receitas.png",
-        github: "#",
+        image: "/images/projects/cambio.png",
+        github: "https://github.com/Gabriel-Assis03/Cambio",
       },
       {
         name: "ChargerMap",
@@ -145,7 +145,7 @@ export const translations = {
           "A reading management platform with favorite books and reading statistics.",
         technologies: ["React", "Node.js", "MongoDB"],
         image: "/images/projects/bookshelf.png",
-        github: "#",
+        github: "https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti2-8183100-bookshelf",
       },
     ],
 
@@ -161,7 +161,7 @@ export const translations = {
       {
         title: "Full Stack Development",
         institution: "Trybe",
-        period: "2024",
+        period: "2023",
         description:
           "Web development training including JavaScript, React, Back-end and databases.",
       },
